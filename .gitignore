@@ -15,6 +15,10 @@ bin-release/
 
 #temp.py - This is just for testing purposes
 temp.py
+
+#Other Temporary Files
+.ipynb_checkpoints
+
 # Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
 # should NOT be excluded as they contain compiler settings and other important
 # information for Eclipse / Flash Builder.
